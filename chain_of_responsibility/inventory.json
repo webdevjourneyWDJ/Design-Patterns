@@ -1,0 +1,29 @@
+{
+    "floor": [
+        { "name": "mouse pad", "qty": 5 },
+        { "name": "master mx", "qty": 15 },
+        { "name": "monitors", "qty": 2 },
+        { "name": "das keyboard", "qty": 2 }
+    ],
+    "backroom": [
+        { "name": "mouse pad", "qty": 5 },
+        { "name": "master mx", "qty": 15 },
+        { "name": "desktop", "qty": 2 },
+        { "name": "rack", "qty": 1 }
+    ],
+    "localStore": [
+        { "name": "das keyboard", "qty": 2 },
+        { "name": "desktop", "qty": 4 },
+        { "name": "wires", "qty": 8 }
+    ],
+    "warehouse": [
+        { "name": "mouse pad", "qty": 100 },
+        { "name": "master mx", "qty": 100 },
+        { "name": "all monitors", "qty": 10 },
+        { "name": "das keyboard", "qty": 20 },
+        { "name": "desktop", "qty": 20 },
+        { "name": "wires", "qty": 100 },
+        { "name": "microphone", "qty": 10 },
+        { "name": "rack", "qty": 3 }
+    ]
+}
